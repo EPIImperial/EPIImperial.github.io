@@ -183,5 +183,9 @@ We asked previous students what advice they would give their past selves before 
 - Revise the second term lectures such that there are some baby steps leading to the big equations
 - Summer quarter advice - make sure they have data you want to work with.
 - Advice for the thesis: get your references and stuff organised and maybe don’t wait too much before writing some stuff.
+    
+#### Acknowledgements
 
+We would like to thank [Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the MSc Health Data Analytics and Machine Learning teaching team. For any questions regarding this page, please contact <sphteaching2@imperial.ac.uk>.
+    
 </details>
