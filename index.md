@@ -17,7 +17,16 @@ title: Imperial MSc EPI Course Preparation
 
 ### Learning to code
 
-The MSc Epidemiology course primarily uses R, and there are numerous free or cheap resources online for getting started. Here are a selection of the best:
+The MSc Epidemiology course primarily uses R. If you don't have R already installed on your computer, you can follow the instructions provided on this webpage in the section [Setting up your computer](#cpu_setup-example).  There are numerous free or cheap resources online for getting started, some of which are recommended below in [Free R resources](#free_r_resources).
+
+Once you have set up R, the course team highly recommends you complete the below courses on DataCamp, before induction week.  
+
+* [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+* [Intermediate R](https://www.datacamp.com/courses/intermediate-r)
+* [Data Visualization in R](https://www.datacamp.com/courses/data-visualization-in-r)
+* [Introduction to Importing Data in R](https://www.datacamp.com/courses/introduction-to-importing-data-in-r)
+
+#### [Free R resources](#free_resources)
 
 **[Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)**
 
