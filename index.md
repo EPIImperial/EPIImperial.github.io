@@ -15,36 +15,6 @@ title: Imperial MSc EPI Course Preparation
 
 ## Choosing how to spend your preparation time <a name="prep_time"></a>
 
-### Learning to code
-
-The MSc Epidemiology course primarily uses R. If you don't have R already installed on your computer, you can follow the instructions provided on this webpage in the section [Setting up your computer](#cpu_setup-example).  There are numerous free or cheap resources online for getting started, some of which are recommended below in [Free R resources](#free_r_resources).
-
-Once you have set up R, the course team highly recommends you complete the below courses on DataCamp, before induction week.  
-
-* [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
-* [Intermediate R](https://www.datacamp.com/courses/intermediate-r)
-* [Data Visualization in R](https://www.datacamp.com/courses/data-visualization-in-r)
-* [Introduction to Importing Data in R](https://www.datacamp.com/courses/introduction-to-importing-data-in-r)
-
-#### [Free R resources](#free_resources)
-
-**[Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)**
-
-Excellent intro to R, starting from the very beginning. Free to take the course – you only have to pay if you want the certificate.
-
-**[Free R Tutorial - R, ggplot, and Simple Linear Regression](https://www.udemy.com/course/machlearn1/)**
-
-A gentle introduction to using R for data manipulation, visualisation, statistics and simple ML. Free to take the course – you only have to pay if you want the certificate.
-
-**[R for statistics](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)**
-
-A really thorough guide to using R for statistics
-
-**[erikgahner/awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2)**
-
-A great curated list of resources for R programming
-
----
 
 ### Statistics
 
@@ -75,6 +45,38 @@ Another great statistics youtube channel
 **[Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)**
 
 For starting from the basics, Khan Academy has excellent tutorials
+
+
+### Learning to code
+
+The MSc Epidemiology course primarily uses R. If you don't have R already installed on your computer, you can follow the instructions provided on this webpage in the section [Setting up your computer](#cpu_setup-example).  There are numerous free or cheap resources online for getting started, some of which are recommended below in [Free R resources](#free_r_resources).
+
+Once you have set up R, the course team highly recommends you complete the below courses on DataCamp, before induction week. To access the DataCamp courses, you need to use your Imperial email account.
+
+* [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+* [Intermediate R](https://www.datacamp.com/courses/intermediate-r)
+* [Data Visualization in R](https://www.datacamp.com/courses/data-visualization-in-r)
+* [Introduction to Importing Data in R](https://www.datacamp.com/courses/introduction-to-importing-data-in-r)
+
+#### [Free R resources](#free_resources)
+
+**[Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)**
+
+Excellent intro to R, starting from the very beginning. Free to take the course – you only have to pay if you want the certificate.
+
+**[Free R Tutorial - R, ggplot, and Simple Linear Regression](https://www.udemy.com/course/machlearn1/)**
+
+A gentle introduction to using R for data manipulation, visualisation, statistics and simple ML. Free to take the course – you only have to pay if you want the certificate.
+
+**[R for statistics](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)**
+
+A really thorough guide to using R for statistics
+
+**[erikgahner/awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2)**
+
+A great curated list of resources for R programming
+
+---
 
 
 ## Computer set-up <a name="cpu_setup"></a>
