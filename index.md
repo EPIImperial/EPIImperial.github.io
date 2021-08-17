@@ -18,11 +18,11 @@ title: Imperial MSc EPI Course Preparation
 
 ### Statistics
 
-While the term 1 statistics course starts with the basics, the whole MSc Epidemiology course is based around a solid understanding of statistics and many concepts can take time to digest. So, if your stats is a bit rusty, you can make things easier on yourself by brushing ahead of the course. The course does provide optional maths refreshers in term one, which cover linear algebra, but if you haven't studied it before then some pre-course revision may well be beneficial.
+While the term one Introdcution to Statistics course starts with the basics, the whole MSc Epidemiology course requires a solid understanding of statistics and many concepts can take time to digest. So, if your statistical skills are a bit rusty, you can make things easier on yourself by brushing up on them ahead of the course. We provide optional maths refreshers in term one, which cover linear algebra, but if you haven't studied this before then some pre-course revision may well be beneficial.
 
 For a revision of statistical concepts we highly recommend you begin your preparation by following the first few weeks of the [Imperial Introduction to Statistics for Public Health course](https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health). This is particularly useful if you have not done any  basic maths or statistics in some time. 
 
-If you still have time, here are some other useful stats and linear algebra resources.
+If you still have time (after the coding prep and computer set-up in the sections further below), here are some other useful statistics and linear algebra resources.
 
 **Coursera courses**
 
@@ -82,7 +82,7 @@ A great curated list of resources for R programming
 
 ## Computer set-up <a name="cpu_setup"></a>
 
-You will be extensively using R throughout the year, a widely used programming language for statistical analyses and machine learning (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)). R can be aided by the use of Rstudio (highly recommended), which is a graphical user interface for R. To use both of these in the course, you will need to install R, Rstudio and some R packages on your personal laptop. **Please follow the instructions below to complete the installation prior to course commencement**. We will have a dedicated session during the induction week to help troubleshoot any problems you encounter with the installation. 
+You will be using R extensively throughout the year. R is a widely used programming language for statistical analyses and machine learning (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)) and can be aided by the use of Rstudio (highly recommended), which is a graphical user interface for R. To use both of these in the course, you will need to install R, Rstudio and some R packages on your personal laptop. **Please follow the instructions below to complete the installation prior to course commencement**. We will have a dedicated session during induction week to help troubleshoot any problems you encounter with the installation. 
 
 ### Installing R
 
@@ -168,7 +168,7 @@ Chapters 2–5 will support what you learn in the term 1 statistics module.
 
 ## Advice from previous students <a name="student_advice"></a>
 
-We asked students from the 2019–2020 cohort what advice they would give their past selves before starting the course. Their responses are below.
+We asked previous students what advice they would give their past selves before starting the course. Their responses are below.
 
 ### Before starting the course
 
