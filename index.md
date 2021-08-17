@@ -39,7 +39,7 @@ If you still have time, here are some other useful stats and linear algebra reso
 
    * [Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
-### Learning to code
+### Learning to code or improving your coding skills
 
 The MSc Epidemiology course primarily uses R. If you don't have R already installed on your computer, you can follow the instructions provided on this webpage in the section [Setting up your computer](#cpu_setup-example).  There are numerous free or cheap resources online for getting started, some of which are recommended below in [Free R resources](#free_r_resources).
 
@@ -50,15 +50,26 @@ Once you have set up R, the course team highly recommends you complete the below
 * [Data Visualization in R](https://www.datacamp.com/courses/data-visualization-in-r)
 * [Introduction to Importing Data in R](https://www.datacamp.com/courses/introduction-to-importing-data-in-r)
 
-#### [Free R resources](#free_resources)
+If you are already familiar with R or you are a beginner and have completed the above, here are some more advanced courses from DataCamp you might want to complete:
+
+* [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse)
+* [Data Manipulation with dplyr](https://www.datacamp.com/courses/data-manipulation-with-dplyr)
+* [Joining Data with dplyr](https://www.datacamp.com/courses/joining-data-with-dplyr)
+* [Cleaning Data in R](https//www.datacamp.com/courses/data-cleaning-in-r)
+* [Introduction to Data Visualization with ggplot2](https://www.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2)
+
+
+#### [Free R resources](#free_r_resources)
+
+Please note the resources below are free but some may require payment if you want to obtain a certificate.
 
 **[Free R Tutorial - R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)**
 
-Excellent intro to R, starting from the very beginning. Free to take the course – you only have to pay if you want the certificate.
+Excellent intro to R, starting from the very beginning. This will also walk you through the setup process.
 
 **[Free R Tutorial - R, ggplot, and Simple Linear Regression](https://www.udemy.com/course/machlearn1/)**
 
-A gentle introduction to using R for data manipulation, visualisation, statistics and simple ML. Free to take the course – you only have to pay if you want the certificate.
+A gentle introduction to using R for data manipulation, visualisation, statistics and simple ML. 
 
 **[R for statistics](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)**
 
@@ -71,9 +82,7 @@ A great curated list of resources for R programming
 
 ## Computer set-up <a name="cpu_setup"></a>
 
-We will have a dedicated session in the induction week where we will guide you through installing all the required software and packages. However, if you want to do this in advance of starting the course, here 's what you need to do.
-
-You will be extensively using R throughout the year, a widely used programming language for statistical analyses and machine learning (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)). In this session, we are going to install R, R Studio, and the main R packages that you will be using throughout the year on your laptops.
+You will be extensively using R throughout the year, a widely used programming language for statistical analyses and machine learning (see [https://www.r-project.org/about.html](https://www.r-project.org/about.html)). R can be aided by the use of Rstudio (highly recommended), which is a graphical user interface for R. To use both of these in the course, you will need to install R, Rstudio and some R packages on your personal laptop. **Please follow the instructions below to complete the installation prior to course commencement**. We will have a dedicated session during the induction week to help troubleshoot any problems you encounter with the installation. 
 
 ### Installing R
 
@@ -182,6 +191,6 @@ We asked students from the 2019–2020 cohort what advice they would give their 
 - Summer quarter advice - make sure they have data you want to work with.
 - Advice for the thesis: get your references and stuff organised and maybe don’t wait too much before writing some stuff.
 
-#### Acknowledgements
+#### Acknowledgements and contacts
 
-We would like to thank [Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the MSc Health Data Analytics and Machine Learning teaching team. For any questions regarding this page, please contact <sphteaching2@imperial.ac.uk>.
+We would like to thank [Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the School of Public Health teaching team. For any questions regarding this page, please contact <sphteaching2@imperial.ac.uk>.
