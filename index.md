@@ -20,31 +20,23 @@ title: Imperial MSc EPI Course Preparation
 
 While the term 1 statistics course starts with the basics, the whole MSc Epidemiology course is based around a solid understanding of statistics and many concepts can take time to digest. So, if your stats is a bit rusty, you can make things easier on yourself by brushing ahead of the course. The course does provide optional maths refreshers in term one, which cover linear algebra, but if you haven't studied it before then some pre-course revision may well be beneficial.
 
-Here are some useful stats and linear algebra resources:
+For a revision of statistical concepts we highly recommend you begin your preparation by following the first few weeks of the [Imperial Introduction to Statistics for Public Health course](https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health). This is particularly useful if you have not done any  basic maths or statistics in some time. 
 
-**[Statistics with R](https://www.coursera.org/specializations/statistics)**
+If you still have time, here are some other useful stats and linear algebra resources.
 
-Kill two birds with one stone – this course teaches statistics as applied in R
+**Coursera courses**
 
-**[Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)**
+    * [Statistics with R](https://www.coursera.org/specializations/statistics)*
+    * [Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)
+    * [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
+    
+**Youtube Channels**
 
-A more epi/biostats focus, but still useful
+    * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+    * [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
+**Khan Academy**
 
-**[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)**
-
-This course provides a thorough grounding in linear algebra for ML
-
-**[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)**
-
-Great youtube channel with stats/ML instructional videos
-
-**[StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)**
-
-Another great statistics youtube channel
-
-**[Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)**
-
-For starting from the basics, Khan Academy has excellent tutorials
+    * [Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
 
 ### Learning to code
@@ -75,8 +67,6 @@ A really thorough guide to using R for statistics
 **[erikgahner/awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2)**
 
 A great curated list of resources for R programming
-
----
 
 
 ## Computer set-up <a name="cpu_setup"></a>
@@ -150,6 +140,8 @@ There are two main repositories of R packages (sets of built-in R functions): th
 
 Once you have run all these lines of code, please make sure that all the packages have been properly installed. They should all be listed in the “Packages” tab (bottom right hand quadrant of R Studio):
 ![Screenshot of installed packages](Screenshot%202020-08-14%20at%2016.25.52.png)
+
+---
 
 ## Term 1 reading list <a name="reading_list"></a>
 
