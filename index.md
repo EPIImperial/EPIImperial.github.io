@@ -26,18 +26,18 @@ If you still have time, here are some other useful stats and linear algebra reso
 
 **Coursera courses**
 
-    * [Statistics with R](https://www.coursera.org/specializations/statistics)*
-    * [Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)
-    * [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
+   * [Statistics with R](https://www.coursera.org/specializations/statistics)
+   * [Biostatistics in Public Health: Coursera](https://www.coursera.org/specializations/biostatistics-public-health)
+   * [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
     
 **Youtube Channels**
 
-    * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-    * [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
+   * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+   * [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
+    
 **Khan Academy**
 
-    * [Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)
-
+   * [Statistics and Probability: Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
 ### Learning to code
 
