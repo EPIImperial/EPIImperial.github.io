@@ -7,7 +7,7 @@ title: Imperial MSc EPI Course Preparation
 
 ## Table of Contents
 1. [How to spend your preparation time](#prep_time)
-2. [Setting up your computer](#cpu_setup-example)
+2. [Setting up your computer](#cpu_setup)
 3. [Reading list](#reading_list)
 4. [Advice from previous students](#student_advice)
 
@@ -41,7 +41,7 @@ If you still have time, here are some other useful stats and linear algebra reso
 
 ### Learning to code or improving your coding skills
 
-The MSc Epidemiology course primarily uses R. If you don't have R already installed on your computer, you can follow the instructions provided on this webpage in the section [Setting up your computer](#cpu_setup-example).  There are numerous free or cheap resources online for getting started, some of which are recommended below in [Free R resources](#free_r_resources).
+The MSc Epidemiology course primarily uses R. If you don't have R already installed on your computer, you can follow the instructions provided on this webpage in the section [Setting up your computer](#cpu_setup).  There are numerous free or cheap resources online for getting started, some of which are recommended below in [Free R resources](#free_r_resources).
 
 Once you have set up R, the course team highly recommends you complete the below courses on DataCamp, before induction week. To access the DataCamp courses, you need to use your Imperial email account.
 
@@ -59,7 +59,7 @@ If you are already familiar with R or you are a beginner and have completed the 
 * [Introduction to Data Visualization with ggplot2](https://www.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2)
 
 
-#### [Free R resources](#free_r_resources)
+#### Free R resources<a name="free_r_resources"></a>
 
 Please note the resources below are free but some may require payment if you want to obtain a certificate.
 
