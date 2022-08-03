@@ -18,11 +18,11 @@ title: Imperial MSc EPI Course Preparation
 
 ### Statistics
 
-While the term one Introdcution to Statistics course starts with the basics, the whole MSc Epidemiology course requires a solid understanding of statistics and many concepts can take time to digest. So, if your statistical skills are a bit rusty, you can make things easier on yourself by brushing up on them ahead of the course. We provide optional maths refreshers in term one, which cover linear algebra, but if you haven't studied this before then some pre-course revision may well be beneficial.
+The MSc Epidemiology programme requires a solid understanding of statistical concepts, some of which may take time to digest. While you'll complete a compulsory Introduction to Statistical Thinking and Data Analysis module in the Autumn term (term one), it is recommended that you brush up on your statistical skills before the course commences. We provide optional maths refreshers in term one, which include linear algebra, but if you haven't studied this before then some pre-course revision may well be beneficial.
 
 For a revision of statistical concepts we highly recommend you begin your preparation by following the first few weeks of the [Imperial Introduction to Statistics for Public Health course](https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health). This is particularly useful if you have not done any  basic maths or statistics in some time. 
 
-If you still have time (after the coding prep and computer set-up in the sections further below), here are some other useful statistics and linear algebra resources.
+If you still have time (after the recommended coding prep and computer set-up in the sections further below), here are some other useful statistics and linear algebra resources.
 
 **Coursera courses**
 
@@ -41,7 +41,7 @@ If you still have time (after the coding prep and computer set-up in the section
 
 ### Learning to code or improving your coding skills
 
-The MSc Epidemiology course primarily uses R. If you don't have R already installed on your computer, you can follow the instructions provided on this webpage in the section [Setting up your computer](#cpu_setup).  There are numerous free or cheap resources online for getting started, some of which are recommended below in [Free R resources](#free_r_resources).
+The MSc Epidemiology course primarily uses R. If you don't have R already installed on your computer, please do so **before** the course commences, using the instructions provided on this webpage in the section [Setting up your computer](#cpu_setup).  There are numerous free or cheap resources online for getting started, some of which are recommended below in [Free R resources](#free_r_resources).
 
 Once you have set up R, the course team highly recommends you complete the below courses on DataCamp, before induction week. To access the DataCamp courses, you need to use your Imperial email account.
 
@@ -50,7 +50,7 @@ Once you have set up R, the course team highly recommends you complete the below
 * [Data Visualization in R](https://www.datacamp.com/courses/data-visualization-in-r)
 * [Introduction to Importing Data in R](https://www.datacamp.com/courses/introduction-to-importing-data-in-r)
 
-If you are already familiar with R or you are a beginner and have completed the above, here are some more advanced courses from DataCamp you might want to complete:
+If you are already familiar with R or you are a beginner and have completed the above, here are some more advanced courses from DataCamp you may want to complete:
 
 * [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse)
 * [Data Manipulation with dplyr](https://www.datacamp.com/courses/data-manipulation-with-dplyr)
@@ -86,13 +86,13 @@ You will be using R extensively throughout the year. R is a widely used programm
 
 ### Installing R
 
-First download and install R (version 4.1.0) from the CRAN.
+First download and install R (version 4.2.1) from the CRAN.
 
 **[R for Mac OS X](https://cran.r-project.org/bin/macosx/)**
 
 For Mac users
 
-**[Download R-4.1.0 for Windows. The R-project for statistical computing.](https://cran.r-project.org/bin/windows/base/)**
+**[Download R-4.2.1 for Windows. The R-project for statistical computing.](https://cran.r-project.org/bin/windows/base/)**
 
 For Windows users
 
