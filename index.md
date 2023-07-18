@@ -79,6 +79,57 @@ A really thorough guide to using R for statistics
 
 A great curated list of resources for R programming
 
+### Research Methods
+
+#### Work to be completed ahead of the first teaching session of the Research Methods Module
+
+Throughout the Research Methods module we are going to be exploring the key aspects related to designing and conducting a research project in public health or epidemiology. This is to prepare you, in the short term, for your dissertation in the summer. In the long term, crafting a good research question is essential to undertaking any research after your Masters or to be able to critically appraise published research projects.  
+
+One of the most critical stages of any research project comes right at the beginning: developing a well-defined research question. Your research question will affect many other stages and decisions you make such as your study design, methodology and analysis – ultimately, the quality and validity of your work.  
+
+The first week of the research methods module is focused on how to develop a good research question. A mantra that we shall come back to time and again is that your research question should be Clear, Focused and Feasible! This means the following:  
+
+*Your research question should be clear. To ensure this, the terms you invoke in your research question should be well defined. 
+
+*Your research question should be focused. Your research question should not be too broad otherwise you will have practical difficulties articulating the methods implied by your question, in a specific and meaningful manner. 
+
+*Your research question should be feasible. Your research question should be amenable to be answered with the resources and time you have available. 
+
+However, it is important to note all researchers ‘iterate’ (or modify repeatedly) their research question – this is natural and all part of the process. No research question is perfect the first time it is written. Through reading the literature and having discussions with others, you go through an iteration process where you make it clearer, more focused and more feasible. 
+
+**During the first teaching session of Research Methods, you will need to bring a draft research question to class**
+
+There is no expectation for this to be perfect because the plan is to work on these during the session to iterate and improve them. Prior to the first session, you will need to identify a research gap in a topic you are interested in and develop this into a research question. Please note, this is not necessarily the research question for your final summer research project so please come with an example of a topic idea and research question for the exercise – 
+
+**Don’t spend too much time contemplating whether or not this is an area you will end up working on– we just need you to come in with an example to the session**  
+
+First stage is to identify a topic within public health and epidemiology that you are interested in. Such ideas can come from personal experience, incidental news you have come across or more intimate knowledge of a particular field of study. Below are links to the departments within the School of Public Health (SPH), any of which you can explore for research ideas. You do not have to choose from SPH research topics. However, you may benefit from doing so as some students have completed their summer projects using research questions developed on this module, supported by SPH supervisors with expertise in that topic. 
+
+MSc Epidemiology students are encouraged to consider ongoing research activities and potential supervisors mainly from the Departments of Infectious Disease Epidemiology, Epidemiology and Biostatistics and the Environmental Research Group, as their work is best aligned to your learnign objectives.
+
+**[SPH department websites detailing research activities] (https://www.imperial.ac.uk/school-public-health/research/)**
+
+**[Department of Infectious Disease Epidemiology] (https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/)**
+
+**[Epidemiology and Biostatistics] (https://www.imperial.ac.uk/school-public-health/epidemiology-and-biostatistics/)**
+
+**[Environmental Resaerch Group] (https://www.imperial.ac.uk/school-public-health/environmental-research-group/)**
+
+
+Once you have identified a topic, you should then try and define it further and narrow down, as it is likely to be too broad at first.  For example, you may be broadly interested in the topic of adherence to antiretroviral therapy for people living with HIV. You could then ask yourself:  
+
+Why am I interested in this topic? What is it about antiretroviral adherence that sparked my interest? Am I interested in a particular setting (e.g. HIV clinics in South Africa or London)? Am I interested in a particular group (e.g. pregnant women)? What aspect of adherence am I interested in (e.g. barriers or facilitators, methods of measuring adherence)?   
+
+Additionally, it is important to ask yourself:   
+
+What do I currently know about this topic? Am I aware of any research gaps that I can contribute to filling? Do I know someone or am I aware of someone at Imperial or in an external institution I can discuss my initial ideas with?   
+
+Based upon these questions, you should be able to start narrowing your research topic down. Through a series of adaptations, you may be able to develop an initial research question. 
+
+During the Research Methods Module you will explore the background literature to your research topic/research question in more detail so you may identify the research gaps more closely; thus, it is likely your research question will adapt and change. However, it is important to start with a research topic you are interested in.   
+
+**Further guidance on how you can refine your research question will be circulated via email ahead of the start of term**
+
 
 ## Computer set-up <a name="cpu_setup"></a>
 
