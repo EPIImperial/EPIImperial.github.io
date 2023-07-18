@@ -81,7 +81,7 @@ A great curated list of resources for R programming
 
 ### Research Methods
 
-#### Work to be completed ahead of the first teaching session of the Research Methods Module
+**Work to be completed ahead of the first teaching session of the Research Methods Module**
 
 Throughout the Research Methods module we are going to be exploring the key aspects related to designing and conducting a research project in public health or epidemiology. This is to prepare you, in the short term, for your dissertation in the summer. In the long term, crafting a good research question is essential to undertaking any research after your Masters or to be able to critically appraise published research projects.  
 
@@ -107,13 +107,13 @@ First stage is to identify a topic within public health and epidemiology that yo
 
 MSc Epidemiology students are encouraged to consider ongoing research activities and potential supervisors mainly from the Departments of Infectious Disease Epidemiology, Epidemiology and Biostatistics and the Environmental Research Group, as their work is best aligned to your learnign objectives.
 
-**[SPH department websites detailing research activities] (https://www.imperial.ac.uk/school-public-health/research/)**
+**[SPH department websites detailing research activities](https://www.imperial.ac.uk/school-public-health/research/)**
 
-**[Department of Infectious Disease Epidemiology] (https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/)**
+**[Department of Infectious Disease Epidemiology](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/)**
 
-**[Epidemiology and Biostatistics] (https://www.imperial.ac.uk/school-public-health/epidemiology-and-biostatistics/)**
+**[Epidemiology and Biostatistics](https://www.imperial.ac.uk/school-public-health/epidemiology-and-biostatistics/)**
 
-**[Environmental Resaerch Group] (https://www.imperial.ac.uk/school-public-health/environmental-research-group/)**
+**[Environmental Resaerch Group](https://www.imperial.ac.uk/school-public-health/environmental-research-group/)**
 
 
 Once you have identified a topic, you should then try and define it further and narrow down, as it is likely to be too broad at first.  For example, you may be broadly interested in the topic of adherence to antiretroviral therapy for people living with HIV. You could then ask yourself:  
