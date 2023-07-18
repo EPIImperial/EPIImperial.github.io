@@ -139,6 +139,31 @@ Once you have run all these lines of code, please make sure that all the package
 
 <details><summary>Reading list</summary>
 
+# Research Methods
+
+### Have you got a ‘Research Question’?
+
+** Work to be completed ahead of the first teaching session of the Research Methods Module 
+Throughout the Research Methods module we are going to be exploring the key aspects related to designing and conducting a research project in public health or epidemiology. This is to prepare you, in the short term, for your dissertation in the summer. In the long term, crafting a good research question is essential to undertaking any research after your Masters or to be able to critically appraise published research projects.  
+
+One of the most critical stages of any research project comes right at the beginning: developing a well-defined research question. Your research question will affect many other stages and decisions you make such as your study design, methodology and analysis – ultimately, the quality and validity of your work.  
+
+The first week of the research methods module is focused on how to develop a good research question. A mantra that we shall come back to time and again is that your research question should be Clear, Focused and Feasible! This means the following:  
+
+
+**Your research question should be clear. To ensure this, the terms you invoke in your research question should be well defined. 
+
+**Your research question should be focused. Your research question should not be too broad otherwise you will have practical difficulties articulating the methods implied by your question, in a specific and meaningful manner. 
+
+**Your research question should be feasible. Your research question should be amenable to be answered with the resources and time you have available.
+
+However, it is important to note all researchers ‘iterate’ (or modify repeatedly) their research question – this is natural and all part of the process. No research question is perfect the first time it is written. Through reading the literature and having discussions with others, you go through an iteration process where you make it clearer, more focused and more feasible. 
+
+During the first teaching session of Research Methods, you will need to bring a draft research question to class. There is no expectation for this to be perfect because the plan is to work on these during the session to iterate and improve them. Prior to the first session, you will need to identify a research gap in a topic you are interested in and develop this into a research question. Please note, this is not necessarily the research question for your final summer research project so please come with an example of a topic idea and research question for the exercise – 
+
+Don’t spend too much time contemplating whether or not this is an area you will end up working on– we just need you to come in with an example to the session.  
+
+First stage is to identify a topic within public health and epidemiology that you are interested in. Such ideas can come from personal experience, incidental news you have come across or more intimate knowledge of a particular field of study. Below are links to the six departments within the School of Public Health (SPH) and their research areas to help you explore some of the topics you may be interested in. You do not have to choose from one of the topics below, but you can use this to help guide you if you wish. Please also use this opportunity to explore the department webpages for better understanding of research areas of engagement within SPH. Some students complete their summer projects using research questions developed on this module, supported by SPH supervisors with expertise in that topic; you are encouraged to consider ongoing SPH research activities and potential supervisors as you develop your question 
 
 # Term 1 reading list
 
