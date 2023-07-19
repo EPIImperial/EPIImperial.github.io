@@ -10,6 +10,7 @@ title: Imperial MSc EPI Course Preparation
 2. [Setting up your computer](#cpu_setup)
 3. [Reading list](#reading_list)
 4. [Advice from previous students](#student_advice)
+5. [Frequently Asked Questions](#FAQ)
 
 
 
@@ -242,6 +243,117 @@ We asked previous students what advice they would give their past selves before 
 - Summer quarter advice - make sure they have data you want to work with.
 - Advice for the thesis: get your references and stuff organised and maybe don’t wait too much before writing some stuff.
 
+
+## Frequently Asked Questions <a name="FAQ"></a>
+
+#### 1. Do you have any suggestions for finding accommodation in London? 
+
+When searching for accommodation, take note of the campus where most of your classes will be delivered.  The MSc Health Data Analytics and Machine Learning course is based at the St Mary’s Campus in Paddington, West London. However, some of your classes will take place at the Charing Cross Campus in Hammersmith and South Kensington Campus and White City.
+
+For additional information on accommodation, visit the [Imperial College Accommodation website.](https://www.imperial.ac.uk/students/accommodation/)
+
+#### 2. How much money will I need to live and study in London for a year?
+
+Please visit the Imperial [Living in London](https://www.imperial.ac.uk/study/living-in-london/) website for detailed information. 
+
+You will need to travel between campuses by bus, bicycle or underground train. Some journeys may be convenient on foot.
+
+#### 3. What is my tuition fee status? 
+
+Please visit the Imperial [Fees and Funding](https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/fee-status/) website for the most up to date information on tuition fees.
+
+#### 4. How and when should I send official documents (e.g. degree certificates)?  
+
+Official documents need to be sent to [Registry](https://www.imperial.ac.uk/admin-services/registry/) as soon as they are requested . Please check [My Imperial](https://www.imperial.ac.uk/admin-services/ict/self-service/admin-systems/my-imperial/) portal for instructions on how to send these. All outstanding conditions of your offer will have to be met before you can be offered an unconditional place and register as a student. Registering as a student is a pre-requisite for joining the course. For any questions regarding your documents and outstanding conditions, you can contact Registry directly
+
+#### 5. When does the course start?
+
+The MSc Epidemiology Course starts on 2 October 2023. Further details of the first week of term (i.e. ‘Induction Week’) will be sent via email. 
+
+For international students, Imperial College London organises some orientation events prior to the official start of the course. Please visit the [International Students Webpages](https://www.imperial.ac.uk/study/international-students/)  for further information. 
+
+#### 6. I’m an international student – what else should I consider or do before my arrival? 
+
+Please bear in mind that you may need a visa and vaccinations before your arrival.
+If you think you will not be able to obtain the visa in time for the start of the course please contact the Postgraduate Education Coordinator, Jo Tite: j.tite at imperial.ac.uk
+
+You may also want to familiarise yourself with information on how to open a bank account, and how to find a general medical practitioner (GP) after your arrival.  Options for GP services include the [Imperial College Health Centre](https://www.imperialcollegehealthcentre.co.uk/) in South Kensington or other services closer to your chosen accommodation.  
+
+Please also make active use of the [general information](https://www.imperial.ac.uk/study/international-students/) resources for international students at Imperial. 
+
+#### 7. Where does teaching take place? 
+
+Teaching takes place at St. Mary’s, Paddington, South Kensington, Charing Cross and White City Campuses, this will depend on modules taken.
+
+Please familiarise yourself with Imperial [campuses and maps](https://www.imperial.ac.uk/visit/campuses/)  
+
+Note: The name of the campus may not correspond to the name of the nearest Underground station. For example, the Charing Cross campus is not near the Charing Cross tube station (but is between Hammersmith and Baron’s Court stations), and the Hammersmith campus is not near Hammersmith station. 
+
+#### 8. What will my timetable look like?
+
+The MSc HDA-ML is an intensive course. In general, taught/supervised classes will take place between 9.30am and 5pm from Monday to Friday. However, the exact times may vary depending on the module and the amount of pre-reading and pre-sessional exercises students need to carry out. More details regarding the timetable will be sent to you in September.
+
+The provisional term dates (subject to change) are the following:
+
+***Term dates***
+
+|Autumn term:|					2 October 2023 - 15 December 2023|
+|Spring term:| 					8 January 2024 - 22 March 2024|
+|Summer term:|					1 May 2023 - 31 August 2023|
+|Exam period 1|					8 January 2024|
+|Exam period 2|					29 April 2024 – 10th May|
+
+
+***Closure dates***
+
+|Christmas/New year:|				22 December 2023 - 2 January 2024 (College reopens on 2 January 2024)|
+|Easter Holiday:|				28 March 2024 - 3 April 2024 (College reopens on 3 April 2024)|
+|Early May Bank Holiday:|			6 May 2024|
+|Spring Bank Holiday:|				27 May 2024|
+|Summer Bank Holiday:|			26 August 2024|
+
+Please note that as a one year postgraduate course, assessment submissions may also take place outside the main term / exam periods.
+
+#### 9. What modules will I be taking during the MSc Epidemiology?
+
+All Term 1 modules are regarded as either ‘core’ or ‘compulsory’ to the MSc Epidemiology (that is, essential). In Term 2 there will be opportunities to choose from a range of ‘optional’ modules. The Research Project is a core module on the MSc Epidemiology, which takes place in the summer (Term 3). We endeavour to provide a wide range of summer project ideas for you to choose from (a list of project outlines will be circulated at the start of Term 2) but encourage you to consider your own project ideas before the programme commences. 
+Please refer to the research interests of academics in the School of Public, particularly from the [Department of Infectious Disease Epidemiology](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/), [Epidemiology and Biostatistics](https://www.imperial.ac.uk/school-public-health/epidemiology-and-biostatistics/), and the [Environmental Research Group](https://www.imperial.ac.uk/school-public-health/environmental-research-group/). Research conducted in these departments in best aligned to your course learning objectives, although projects developed with other SPH departments will also be considered. You will later need to develop and submit a research protocol for approval; the course team can support you with finding a supervisor with whom you can develop this protocol. 
+
+#### 10. Do you have a reading list of books to prepare for the course?
+
+We encourage you to do some general preparatory reading; we have attached a list of key texts. However, we do not anticipate prior learning in the subject matters, and the modules are taught starting from a basic level – so there will be adequate opportunities to learn the subjects even if you have never taken these modules beforehand. During term time, you would need to dedicate the allotted time for independent study as well as actively attend the live sessions and lectures.
+
+#### 11. Is there other preparation that I should do before starting the course?
+
+You will be required to use software to prepare written reports and prepare slides to accompany presentations. Our computer facilities (see below) offer you access to Microsoft Teams, Excel, PowerPoint and Word for this purpose. Please familiarise yourself with these packages before the course commences.
+Virtual learning environments such as Blackboard and Coursera will be introduced to you in induction week, and you may be expected to occasionally use interactive platforms like Padlet and Mentimeter. We request that you install and familiarise yourself with basic skills in the programming language R (please see the accompanying R preparation guide and series of free resources that will provide you with an introduction to R). 
+
+#### 12. Will I need to buy a calculator?
+
+You will need to do calculations for practicals and homework, where you can use laptops and/or mobile phones, so it may not be necessary to buy a calculator.
+
+If you decide to buy a calculator, we recommend that you use the CASIO fx-85GT Plus (£9-10). However, any standard scientific calculator should also be fine, so if you already have one, there is no need to buy another one. Importantly, you should check that the calculator has functions to calculate log (bases 2 and 10), exponentials, arithmetic means, standard deviations (S.D.), variance, geometric 
+
+#### 13. What books do I need to buy for the course? 
+
+There is a core reading list of texts in addition to the books recommended for your pre-sessional reading. You will receive a handbook containing links to the core reading lists, when you arrive. These key texts will be available in the library (and mostly online), so choosing to buy any of the books will be up to you in case you want to retain a personal copy.  
+
+#### 14. Do I need to choose my own summer project topic? 
+
+The summer months in Term 3 are dedicated to full-time work on a research project. We provide students with a list of potential summer project topics at the start of Term 2 (in January) and advise that you start thinking about possible projects before this. Alternatively, you may wish to submit your own project ideas for approval. Your idea for a summer project, must be supported by a member of staff within the School of Public Health who is also willing to supervise the project. If you already have project ideas in mind, please discuss these with your personal tutor or the course organisers soon after your arrival. 
+
+#### 15. Who should I contact if I have any further questions? 
+
+If you have any further questions, please consult the following key contacts or resources:
+
+* The Registry team for queries on your application, outstanding conditions, fee status, and registration status.
+*	Postgraduate Education Co-ordinator, for queries on timetables, induction week or any other administrative issues, Jo Tite (email: j.tite at imperial.ac.uk), 
+*	MSc Epidemiology Course Organiser for queries on the course content and reading lists,	Dr Sungano Chigogora (s.chigogora at imperial.ac.uk)   
+*	Please familiarise yourself with information about [postgraduate studies](https://www.imperial.ac.uk/study/pg/), and further information collated for [new postgraduate students](https://www.imperial.ac.uk/students/new-students/postgraduates/) before you arrive. 
+
+
+
+
 #### Acknowledgements and contacts
 
-We would like to thank [Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the School of Public Health teaching team. For any questions regarding this page, please contact <sphteaching2@imperial.ac.uk>.
+We would like to thank [Dr Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the School of Public Health teaching team. For any questions regarding this page, please contact <sphteaching2@imperial.ac.uk>.
