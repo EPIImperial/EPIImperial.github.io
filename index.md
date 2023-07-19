@@ -248,7 +248,7 @@ We asked previous students what advice they would give their past selves before 
 
 #### 1. Do you have any suggestions for finding accommodation in London? 
 
-When searching for accommodation, take note of the campus where most of your classes will be delivered.  The MSc Health Data Analytics and Machine Learning course is based at the St Mary’s Campus in Paddington, West London. However, some of your classes will take place at the Charing Cross Campus in Hammersmith and South Kensington Campus and White City.
+Imperial College London campuses are accessible by public transport from most parts of London. When searching for accommodation, you may want to consider proximity to campuses where most of your classes will be delivered.  The MSc Epidemiology course team are based at the St Mary’s and White City campuses in West London. However, your classes will be split across the South Kensington, St Marys, Charing Cross (Hammersmith) and White City campuses, all in in West London.
 
 For additional information on accommodation, visit the [Imperial College Accommodation website.](https://www.imperial.ac.uk/students/accommodation/)
 
@@ -291,7 +291,7 @@ Note: The name of the campus may not correspond to the name of the nearest Under
 
 #### 8. What will my timetable look like?
 
-The MSc HDA-ML is an intensive course. In general, taught/supervised classes will take place between 9.30am and 5pm from Monday to Friday. However, the exact times may vary depending on the module and the amount of pre-reading and pre-sessional exercises students need to carry out. More details regarding the timetable will be sent to you in September.
+The MSc Epidemiology is an intensive course. In general, taught/supervised classes will take place between 9.30am and 5pm from Monday to Friday. However, the exact times may vary depending on the module and the amount of pre-reading and pre-sessional exercises students need to carry out. More details regarding the timetable will be sent to you in September.
 
 The provisional term dates (subject to change) are the following:
 
@@ -301,7 +301,7 @@ The provisional term dates (subject to change) are the following:
 |Spring term:| 					8 January 2024 - 22 March 2024|
 |Summer term:|					1 May 2023 - 31 August 2023|
 |Exam period 1|					8 January 2024|
-|Exam period 2|					29 April 2024 – 10th May|
+|Exam period 2|					22 April 2024 – 3 May|
 
 
 ***Closure dates***
