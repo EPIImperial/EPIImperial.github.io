@@ -6,12 +6,47 @@ title: Imperial MSc EPI Course Preparation
 # Course preparation resources
 
 ## Table of Contents
-1. [How to spend your preparation time](#prep_time)
-2. [Setting up your computer](#cpu_setup)
-3. [Reading list](#reading_list)
-4. [Advice from previous students](#student_advice)
-5. [Frequently Asked Questions](#FAQ)
+1. [Course Structure and schedule](#schedule)
+2. [How to spend your preparation time](#prep_time)
+3. [Setting up your computer](#cpu_setup)
+4. [Reading list](#reading_list)
+5. [Advice from previous students](#student_advice)
+6. [Frequently Asked Questions](#FAQ)
 
+## Planning your year <a name="schedule"></a>
+
+### What will my timetable look like?
+
+The MSc Epidemiology is an intensive full time programme delivered over a 12 month period. In general, taught/supervised classes will take place between 9.30am and 5pm from Monday to Friday. However, the exact times may vary depending on the module and the amount of pre-reading and pre-sessional exercises students need to carry out. More details regarding the timetable will be sent to you in September.
+
+Below are provisional Imperial College terms dates for 2024-25. Please note that some assessments submission and examination dates fall outside regular College term dates.
+
+***College Term dates***
+
+|Autumn term:|					28 September 2024 - 13 December 2024|
+|Spring term:| 					6 January 2024 - 21 March 2025|
+|Summer term:|					26 April 2025 - 27 June 2025|
+
+***Examination dates***
+
+|Exam period 1|					6-10 January 2025|
+|Exam period 2|					7-16 April 2025|
+
+***Summer Project dates***
+
+|Start:|                         5 May 2025|
+|Background presentation:|      (Provisional) Week of 2 June 2025|
+|Final presentation date:|      (Provisional) Week of 1 Septmber 2025|
+
+***Closure dates***
+
+|Christmas/New year:|				23 December 2024 - 1 January 2025 (College reopens on 2 January 2025)|
+|Easter Holiday:|				17 April 2025 - 22 April 2025 (College reopens on 23 April 2025)|
+|Early May Bank Holiday:|			5 May 2025|
+|Spring Bank Holiday:|				26 May 2025|
+|Summer Bank Holiday:|			25 August 2025|
+
+Again, please note that as a one year postgraduate course, assessment submissions may take place outside the main term / exam periods.
 
 
 ## Choosing how to spend your preparation time <a name="prep_time"></a>
@@ -288,31 +323,6 @@ Teaching takes place at St. Mary’s, Paddington, South Kensington, Charing Cros
 Please familiarise yourself with Imperial [campuses and maps](https://www.imperial.ac.uk/visit/campuses/)  
 
 Note: The name of the campus may not correspond to the name of the nearest Underground station. For example, the Charing Cross campus is not near the Charing Cross tube station (but is between Hammersmith and Baron’s Court stations), and the Hammersmith campus is not near Hammersmith station. 
-
-#### 8. What will my timetable look like?
-
-The MSc Epidemiology is an intensive course. In general, taught/supervised classes will take place between 9.30am and 5pm from Monday to Friday. However, the exact times may vary depending on the module and the amount of pre-reading and pre-sessional exercises students need to carry out. More details regarding the timetable will be sent to you in September.
-
-The provisional term dates (subject to change) are the following:
-
-***Term dates***
-
-|Autumn term:|					2 October 2023 - 15 December 2023|
-|Spring term:| 					8 January 2024 - 22 March 2024|
-|Summer term:|					1 May 2023 - 31 August 2023|
-|Exam period 1|					8 January 2024|
-|Exam period 2|					22 April 2024 – 3 May|
-
-
-***Closure dates***
-
-|Christmas/New year:|				22 December 2023 - 2 January 2024 (College reopens on 2 January 2024)|
-|Easter Holiday:|				28 March 2024 - 3 April 2024 (College reopens on 3 April 2024)|
-|Early May Bank Holiday:|			6 May 2024|
-|Spring Bank Holiday:|				27 May 2024|
-|Summer Bank Holiday:|			26 August 2024|
-
-Please note that as a one year postgraduate course, assessment submissions may also take place outside the main term / exam periods.
 
 #### 9. What modules will I be taking during the MSc Epidemiology?
 
