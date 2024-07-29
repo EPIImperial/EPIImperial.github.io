@@ -23,34 +23,41 @@ Below are provisional Imperial College terms dates for 2024-25. Please note that
 
 ***College Term dates***
 
-|Autumn term:|					28 September 2024 - 13 December 2024|                                                          
-|Spring term:| 					6 January 2024 - 21 March 2025|                                                          
-|Summer term:|					26 April 2025 - 27 June 2025|                                                              
+|Autumn term:					28 September 2024 - 13 December 2024|                                                          
+|Spring term: 				6 January 2024 - 21 March 2025|                                                          
+|Summer term:					26 April 2025 - 27 June 2025|                                                              
 
 ***Examination dates***
 
-|Exam period 1|					6-10 January 2025|
-|Exam period 2|					7-16 April 2025|
+|Exam period 1:					6-10 January 2025|
+|Exam period 2:					7-16 April 2025|
 
 ***Summer Project dates***
 
-|Start:|                         5 May 2025|
-|Background presentation:|      (Provisional) Week of 2 June 2025|    
-|Final presentation date:|      (Provisional) Week of 1 Septmber 2025|
+|Start:                             5 May 2025|
+|Background presentation:          (Provisional)   Week of 2 June 2025|    
+|Final presentation date:          (Provisional)   Week of 1 Septmber 2025|
 
 ***Closure dates***
 
-|Christmas/New year:|				23 December 2024 - 1 January 2025 (College reopens on 2 January 2025)|
-|Easter Holiday:|				17 April 2025 - 22 April 2025 (College reopens on 23 April 2025)|
-|Early May Bank Holiday:|			5 May 2025|
-|Spring Bank Holiday:|				26 May 2025|
-|Summer Bank Holiday:|			25 August 2025|
+|Christmas/New year:  				  23 December 2024 - 1 January 2025 (College reopens on 2 January 2025)|
+|Easter Holiday:      				  17 April 2025 - 22 April 2025 (College reopens on 23 April 2025)|
+|Early May Bank Holiday:			  5 May 2025|
+|Spring Bank Holiday:				    26 May 2025|
+|Summer Bank Holiday:			      25 August 2025|
 
 Again, please note that as a one year postgraduate course, assessment submissions may take place outside the main term / exam periods.
 
 
-## Choosing how to spend your preparation time <a name="prep_time"></a>
+## How to spend your preparation time <a name="prep_time"></a>
 
+### Data Protection mandatory training
+
+The conduct of most epidemiology and public health research requires collection, storage, and processing of  personal data. As a controller for most of the personal data it processes, Imperial College London is committed to full compliance with the applicable data protection legislation, including the UK General Data Protection Regulation (GDPR) and the Data Protection Act 2018.
+
+As you will handling personal and sensitive personal data through teaching and research activities, you are required to complete a Data Protection e-learning course, which includes best practice and scenarios for maintaining data security, an overview of the data protection regulations, compliance, rights and enforcement. 
+
+You can only complete the course once you are enrolled as an Imperial student, and are ecnouraged to complete it before the course commences. 
 
 ### Statistics
 
