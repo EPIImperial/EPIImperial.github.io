@@ -23,9 +23,9 @@ Below are provisional Imperial College terms dates for 2024-25. Please note that
 
 ***College Term dates***
 
-|Autumn term:|					28 September 2024 - 13 December 2024|
-|Spring term:| 					6 January 2024 - 21 March 2025|
-|Summer term:|					26 April 2025 - 27 June 2025|
+|Autumn term:|					28 September 2024 - 13 December 2024|                                                          
+|Spring term:| 					6 January 2024 - 21 March 2025|                                                          
+|Summer term:|					26 April 2025 - 27 June 2025|                                                              
 
 ***Examination dates***
 
@@ -35,7 +35,7 @@ Below are provisional Imperial College terms dates for 2024-25. Please note that
 ***Summer Project dates***
 
 |Start:|                         5 May 2025|
-|Background presentation:|      (Provisional) Week of 2 June 2025|
+|Background presentation:|      (Provisional) Week of 2 June 2025|    
 |Final presentation date:|      (Provisional) Week of 1 Septmber 2025|
 
 ***Closure dates***
