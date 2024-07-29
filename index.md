@@ -24,7 +24,7 @@ Below are provisional Imperial College terms dates for 2024-25. Please note that
 ***College Term dates***
 
 |Autumn term:|					28 September 2024 - 13 December 2024|                                                          
-|Spring term:| 				6 January 2024 - 21 March 2025|                                                          
+|Spring term:| 				  6 January 2025 - 21 March 2025|                                                          
 |Summer term:|					26 April 2025 - 27 June 2025|                                                              
 
 ***Examination dates***
@@ -43,8 +43,8 @@ Below are provisional Imperial College terms dates for 2024-25. Please note that
 |Christmas/New year:|  				  23 December 2024 - 1 January 2025 (College reopens on 2 January 2025)|
 |Easter Holiday:|      				  17 April 2025 - 22 April 2025 (College reopens on 23 April 2025)|
 |Early May Bank Holiday:|			  5 May 2025|
-|Spring Bank Holiday:|				    26 May 2025|
-|Summer Bank Holiday:|			      25 August 2025|
+|Spring Bank Holiday:|				  26 May 2025|
+|Summer Bank Holiday:|			    25 August 2025|
 
 Again, please note that as a one year postgraduate course, assessment submissions may take place outside the main term / exam periods.
 
@@ -55,9 +55,10 @@ Again, please note that as a one year postgraduate course, assessment submission
 
 The conduct of most epidemiology and public health research requires collection, storage, and processing of personal data. As a controller for most of the personal data it processes, Imperial College London is committed to full compliance with the applicable data protection legislation, including the UK General Data Protection Regulation (GDPR) and the Data Protection Act 2018.
 
-As you may handle personal and sensitive personal data through teaching and research activities, you are required to complete a Data Protection Awareness e-learning course, which includes best practice and scenarios for maintaining data security, an overview of the data protection regulations, compliance, rights and enforcement. 
+As you may handle personal and sensitive personal data through teaching and research activities, you are required to complete a **Data Protection Awareness** e-learning course, which includes best practice and scenarios for maintaining data security, an overview of the data protection regulations, compliance, rights and enforcement. 
 
-You can only complete the course once you are enrolled as an Imperial student, and are encouraged to complete it before the course commences. Once you have enrolled with Imperial, you can access and complete the Data Protection Awareness course on Blackboard Learn. Instructions for course enrolment are available here; (https://www.imperial.ac.uk/staff-development/courses-and-programmes/online-learning/e-learning-courses/data-protection/) 
+You can only complete the course once you are enrolled as an Imperial student, and are encouraged to complete it before the course commences. Once you have enrolled with Imperial, you can access and complete the **Data Protection Awareness** course on Blackboard Learn. Instructions for course enrolment are outlined on [Imperial Essentials](https://www.imperial.ac.uk/staff-development/courses-and-programmes/online-learning/e-learning-courses/data-protection/) 
+
 
 ### Statistics
 
@@ -180,13 +181,13 @@ You will be using R extensively throughout the year. R is a widely used programm
 
 ### Installing R
 
-First download and install R (version 4.2.1) from the CRAN.
+First download and install R (version 4.4.1) from the CRAN.
 
 **[R for Mac OS X](https://cran.r-project.org/bin/macosx/)**
 
 For Mac users
 
-**[Download R-4.2.1 for Windows. The R-project for statistical computing.](https://cran.r-project.org/bin/windows/base/)**
+**[Download R-4.4.1 for Windows. The R-project for statistical computing.](https://cran.r-project.org/bin/windows/base/)**
 
 For Windows users
 
@@ -290,7 +291,7 @@ We asked previous students what advice they would give their past selves before 
 
 #### 1. Do you have any suggestions for finding accommodation in London? 
 
-Imperial College London campuses are accessible by public transport from most parts of London. When searching for accommodation, you may want to consider proximity to campuses where most of your classes will be delivered.  The MSc Epidemiology course team are based at the St Mary’s and White City campuses in West London. However, your classes will be split across the South Kensington, St Marys, Charing Cross (Hammersmith) and White City campuses, all in in West London.
+Imperial College London campuses are accessible by public transport from most parts of London. When searching for accommodation, you may want to consider proximity to campuses where most of your classes will be delivered.  The MSc Epidemiology course team are based at the White City campuses in West London. However, your classes will be split across the White City, Charing Cross (Hammersmith) and South Kensington campuses, all in in West London.
 
 For additional information on accommodation, visit the [Imperial College Accommodation website.](https://www.imperial.ac.uk/students/accommodation/)
 
@@ -310,7 +311,7 @@ Official documents need to be sent to [Registry](https://www.imperial.ac.uk/admi
 
 #### 5. When does the course start?
 
-The MSc Epidemiology Course starts on 2 October 2023. Further details of the first week of term (i.e. ‘Induction Week’) will be sent via email. 
+The MSc Epidemiology Course starts on 30 September 2024. Further details of the first week of term (i.e. ‘Induction Week’) will be sent via email. 
 
 For international students, Imperial College London organises some orientation events prior to the official start of the course. Please visit the [International Students Webpages](https://www.imperial.ac.uk/study/international-students/)  for further information. 
 
@@ -325,7 +326,7 @@ Please also make active use of the [general information](https://www.imperial.ac
 
 #### 7. Where does teaching take place? 
 
-Teaching takes place at St. Mary’s, Paddington, South Kensington, Charing Cross and White City Campuses, this will depend on modules taken.
+Teaching takes place at White City, Hammersmith, South Kensington and Charing Cross Campuses; location will depend on modules taken.
 
 Please familiarise yourself with Imperial [campuses and maps](https://www.imperial.ac.uk/visit/campuses/)  
 
@@ -343,13 +344,13 @@ We encourage you to do some general preparatory reading; we have attached a list
 #### 11. Is there other preparation that I should do before starting the course?
 
 You will be required to use software to prepare written reports and prepare slides to accompany presentations. Our computer facilities (see below) offer you access to Microsoft Teams, Excel, PowerPoint and Word for this purpose. Please familiarise yourself with these packages before the course commences.
-Virtual learning environments such as Blackboard and Coursera will be introduced to you in induction week, and you may be expected to occasionally use interactive platforms like Padlet and Mentimeter. We request that you install and familiarise yourself with basic skills in the programming language R (please see the accompanying R preparation guide and series of free resources that will provide you with an introduction to R). 
+Virtual learning environments such as Blackboard will be introduced to you in induction week, and you may be expected to occasionally use interactive platforms like Padlet and Mentimeter. We request that you install and familiarise yourself with basic skills in the programming language R (please see the accompanying R preparation guide and series of free resources that will provide you with an introduction to R). 
 
 #### 12. Will I need to buy a calculator?
 
 You will need to do calculations for practicals and homework, where you can use laptops and/or mobile phones, so it may not be necessary to buy a calculator.
 
-If you decide to buy a calculator, we recommend that you use the CASIO fx-85GT Plus (£9-10). However, any standard scientific calculator should also be fine, so if you already have one, there is no need to buy another one. Importantly, you should check that the calculator has functions to calculate log (bases 2 and 10), exponentials, arithmetic means, standard deviations (S.D.), variance, geometric 
+If you decide to buy a calculator, we recommend that you use the CASIO fx-85GT Plus (about £10). However, any standard scientific calculator should also be fine, so if you already have one, there is no need to buy another one. Importantly, you should check that the calculator has functions to calculate log (bases 2 and 10), exponentials, arithmetic means, standard deviations (S.D.), variance, geometric 
 
 #### 13. What books do I need to buy for the course? 
 
@@ -373,4 +374,4 @@ If you have any further questions, please consult the following key contacts or 
 
 #### Acknowledgements and contacts
 
-We would like to thank [Dr Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the School of Public Health teaching team. For any questions regarding this page, please contact <sphteaching2@imperial.ac.uk>.
+We would like to thank [Dr Matt Whitaker](https://github.com/mathzero) for creating the first version of this page for the cohort of 2020-2021. The maintenance of this page is done by the School of Public Health teaching team. For any questions regarding this page, please contact <sph.pgteachingoc@imperial.ac.uk>.
