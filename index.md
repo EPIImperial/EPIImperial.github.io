@@ -29,8 +29,8 @@ Below are provisional Imperial College terms dates for 2024-25. Please note that
 
 ***Examination dates***
 
-|Exam period 1:|					6-10 January 2025|
-|Exam period 2:|					7-16 April 2025|
+|Exam period 1:|					6 - 10 January 2025|
+|Exam period 2:|					7 - 16 April 2025|
 
 ***Summer Project dates***
 
