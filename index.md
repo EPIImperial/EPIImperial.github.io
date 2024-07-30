@@ -64,7 +64,7 @@ You can only complete the course once you are enrolled as an Imperial student, a
 
 ### Plagiarism Awareness
 
-As an Imperial College London student, you will be required to use and share academic information ethically, with academic integrity and in accordance with [Imperial College's Examination & Assessment: Academic Integrity Policy] (https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/academic-integrity/Examination-and-assessments---academic-integrity.pdf).
+As an Imperial College London student, you will be required to use and share academic information ethically, with academic integrity and in accordance with [Imperial College's Examination & Assessment: Academic Integrity Policy](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/academic-integrity/Examination-and-assessments---academic-integrity.pdf).
 
 To support compliance with this policy, you are required to complete a [Plagiarism Awareness Course](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/masters-students/plagiarism-online/), developed by the Graduate School in conjunction with the Library. It aims to equip all Imperial postgraduate students with a working knowledge of the concept of plagiarism and how to avoid it. 
 You should be auto-enrolled to this course; instructions for manual enrolment are also on the College website.
