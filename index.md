@@ -7,11 +7,12 @@ title: Imperial MSc EPI Course Preparation
 
 ## Table of Contents
 1. [Course Structure and schedule](#schedule)
-2. [How to spend your preparation time](#prep_time)
-3. [Setting up your computer](#cpu_setup)
-4. [Reading list](#reading_list)
-5. [Advice from previous students](#student_advice)
-6. [Frequently Asked Questions](#FAQ)
+2. [Mandatory Training](#mandatory_training)
+3. [How to spend your preparation time](#prep_time)
+4. [Setting up your computer](#cpu_setup)
+5. [Reading list](#reading_list)
+6. [Advice from previous students](#student_advice)
+7. [Frequently Asked Questions](#FAQ)
 
 ## Planning your year <a name="schedule"></a>
 
@@ -49,9 +50,7 @@ Below are provisional Imperial College terms dates for 2024-25. Please note that
 Again, please note that as a one year postgraduate course, assessment submissions may take place outside the main term / exam periods.
 
 
-## How to spend your preparation time <a name="prep_time"></a>
-
-### Mandatory Training
+ ## Mandatory Training <a name="mandatory_training"></a>
 
 ### Data Protection Awareness
 
@@ -70,6 +69,18 @@ As an Imperial College London student, you will be required to use and share aca
 To support compliance with this policy, you are required to complete a [Plagiarism Awareness Course](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/masters-students/plagiarism-online/), developed by the Graduate School in conjunction with the Library. It aims to equip all Imperial postgraduate students with a working knowledge of the concept of plagiarism and how to avoid it. 
 You should be auto-enrolled to this course; instructions for manual enrolment are also on the College website.
 
+### Attributes and Aspirations (Recommended)
+
+**Attributes & Aspirations** is an interactive, practical, flexible online short course designed to support you make decisions on your professional future. It was created based on research into the skills employers and PhD programmes look for, so you can be sure they are the skills that you really need.
+AA offers topics like teamworking, decision making, communication, as well as career planning and interview preparation skills. You can enrol and complete them when you need them on a timeline that works for you! Visit the Skills Map to explore what skills you can practice and where to find them.
+
+[Attributes and Aspirations](https://www.imperial.ac.uk/students/attributes-and-aspirations/pgt/) requires self-enrolment. By enrolling on AA
+- You can develop key skills that will help with your Master's study and in your future.
+- You will access content that designed specifically for Imperial College Postgraduate students in your faculty.
+- You will receive a certificate for each module you complete, but there are no formal assessments on the course.
+
+
+## How to spend your preparation time <a name="prep_time"></a>
 
 ### Statistics
 
