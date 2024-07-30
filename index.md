@@ -71,10 +71,10 @@ You should be auto-enrolled to this course; instructions for manual enrolment ar
 
 ### Attributes and Aspirations (Recommended)
 
-**Attributes & Aspirations** is an interactive, practical, flexible online short course designed to support you make decisions on your professional future. It was created based on research into the skills employers and PhD programmes look for, so you can be sure they are the skills that you really need.
+[Attributes and Aspirations](https://www.imperial.ac.uk/students/attributes-and-aspirations/pgt/) is an interactive, practical, flexible online short course designed to support you make decisions on your professional future. It was created based on research into the skills employers and PhD programmes look for, so you can be sure they are the skills that you really need.
 AA offers topics like teamworking, decision making, communication, as well as career planning and interview preparation skills. You can enrol and complete them when you need them on a timeline that works for you! Visit the Skills Map to explore what skills you can practice and where to find them.
 
-[Attributes and Aspirations](https://www.imperial.ac.uk/students/attributes-and-aspirations/pgt/) requires self-enrolment. By enrolling on AA
+By enrolling on AA
 - You can develop key skills that will help with your Master's study and in your future.
 - You will access content that designed specifically for Imperial College Postgraduate students in your faculty.
 - You will receive a certificate for each module you complete, but there are no formal assessments on the course.
