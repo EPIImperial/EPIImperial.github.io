@@ -50,7 +50,7 @@ Below are provisional Imperial College terms dates for 2024-25. Please note that
 Again, please note that as a one year postgraduate course, assessment submissions may take place outside the main term / exam periods.
 
 
- ## Mandatory Training <a name="mandatory_training"></a>
+### Mandatory Training <a name="mandatory_training"></a>
 
 ### Data Protection Awareness
 
