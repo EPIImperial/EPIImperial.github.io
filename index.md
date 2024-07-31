@@ -63,7 +63,7 @@ The conduct of most epidemiology and public health research requires collection,
 
 As you may handle personal and sensitive personal data through teaching and research activities, you are required to complete a **Data Protection Awareness** e-learning course, which includes best practice and scenarios for maintaining data security, an overview of the data protection regulations, compliance, rights and enforcement. 
 
-You can only complete the course once you are enrolled as an Imperial student, and are encouraged to complete it before the course commences. Once you have enrolled with Imperial, you can access and complete the **Data Protection Awareness** course on Blackboard Learn. Instructions for course enrolment are outlined on [Imperial Essentials](https://www.imperial.ac.uk/staff-development/courses-and-programmes/online-learning/e-learning-courses/data-protection/) 
+You can self-enrol on this course after you are enrolled as an Imperial student, and are encouraged to complete it before the course commences. Once you have enrolled with Imperial, you can access and complete the **Data Protection Awareness** course on Blackboard Learn. Instructions for course enrolment are outlined on [Imperial Essentials](https://www.imperial.ac.uk/staff-development/courses-and-programmes/online-learning/e-learning-courses/data-protection/) 
 
 
 
