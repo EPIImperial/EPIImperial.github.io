@@ -54,6 +54,9 @@ Again, please note that as a one year postgraduate course, assessment submission
 
 ## Mandatory Training <a name="mandatory_training"></a>
 
+You are invited to complete the courses below, which you can only enrol on once you are enrolled as an Imperial student. You are encouraged to complete them before teaching on the MSc Epidemiology commences in October. 
+
+
 ### Data Protection Awareness
 
 The conduct of most epidemiology and public health research requires collection, storage, and processing of personal data. As a controller for most of the personal data it processes, Imperial College London is committed to full compliance with the applicable data protection legislation, including the UK General Data Protection Regulation (GDPR) and the Data Protection Act 2018.
