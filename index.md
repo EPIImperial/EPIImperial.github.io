@@ -26,7 +26,7 @@ Below are provisional Imperial College terms dates for 2024-25. **Please note** 
 
 |Autumn term:|					27 September 2025 - 12 December 2025|                                                          
 |Spring term:| 				  3 January 2026 - 20 March 2026|  
-|Spring break:| 				16 Febuary 2026 - 22 February 2026|
+|Spring break:| 				16 Febuary 2026 - 22 February 2026|     
 |Summer term:|					25 April 2026 - 26 June 2026|                                                              
 
 ***Examination dates***
