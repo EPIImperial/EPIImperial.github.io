@@ -25,8 +25,8 @@ Below are provisional Imperial College terms dates for 2024-25. **Please note** 
 ***College Term dates***
 
 |Autumn term:|					27 September 2025 - 12 December 2025|                                                          
-|Spring term:| 				  3 January 2025 - 20 March 2025|   
-|Summer term:|					25 April 2025 - 26 June 2025|                                                              
+|Spring term:| 				  3 January 2026 - 20 March 2026|   
+|Summer term:|					25 April 2026 - 26 June 2026|                                                              
 
 ***Examination dates***
 
@@ -35,19 +35,19 @@ Below are provisional Imperial College terms dates for 2024-25. **Please note** 
 
 ***Summer Project dates***
 
-|Start:|                             5 May 2025|
-|Background presentation:|          (Provisional)   Week of 2 June 2025|    
-|Final presentation date:|          (Provisional)   Week of 1 Septmber 2025|
+|Start:|                             4 May 2026|
+|Background presentation:|          (Provisional)   Week of 1 June 2026|    
+|Final presentation date:|          (Provisional)   Week of 14 Septmber 2026|
 
 ***Closure dates***
 
-|Christmas/New year:|  				  23 December 2024 - 1 January 2025 (College reopens on 2 January 2025)|
-|Easter Holiday:|      				  17 April 2025 - 22 April 2025 (College reopens on 23 April 2025)|
-|Early May Bank Holiday:|			  5 May 2025|
-|Spring Bank Holiday:|				  26 May 2025|
-|Summer Bank Holiday:|			    25 August 2025|
+|Christmas/New year:|  				  22 December 2025 - 2 January 2026 (College reopens on Monday 5 January 2026)|
+|Easter Holiday:|      				  1 April 2026 - 7 April 2026 (College reopens on Wednesday 23 April 2026)|
+|Early May Bank Holiday:|			  4 May 2026|
+|Spring Bank Holiday:|				  25 May 2026|
+|Summer Bank Holiday:|			    31 August 2026|
 
-Again, please note that as a one year postgraduate course, assessment submissions may take place outside the main term / exam periods.
+Again, NOTE that on this one year postgraduate course, assessment submissions may take place outside the main term / exam periods.
 
 
 
@@ -69,7 +69,8 @@ You can self-enrol on this course after you are enrolled as an Imperial student,
 
 ### Plagiarism Awareness
 
-As an Imperial College London student, you will be required to use and share academic information ethically, with academic integrity and in accordance with [Imperial College's Examination & Assessment: Academic Integrity Policy](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/academic-integrity/Examination-and-assessments---academic-integrity.pdf).
+As an Imperial College London student, you will be required to use and share academic information ethically, with academic integrity and in accordance with [Imperial College's Examination & Assessment: Academic Integrity Policy]
+(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/academic-integrity/Examination-and-assessments---academic-integrity.pdf)
 
 To support compliance with this policy, you are required to complete a [Plagiarism Awareness Course](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/masters-students/plagiarism-online/), developed by the Graduate School in conjunction with the Library. It aims to equip all Imperial postgraduate students with a working knowledge of the concept of plagiarism and how to avoid it. 
 You should be auto-enrolled to this course; instructions for manual enrolment are also on the College website.
@@ -174,9 +175,9 @@ There is no expectation for this to be perfect because the plan is to work on th
 
 **Don’t spend too much time contemplating whether or not this is an area you will end up working on– we just need you to come in with an example to the session**  
 
-First stage is to identify a topic within public health and epidemiology that you are interested in. Such ideas can come from personal experience, incidental news you have come across or more intimate knowledge of a particular field of study. Below are links to the departments within the School of Public Health (SPH), any of which you can explore for research ideas. You do not have to choose from SPH research topics. However, you may benefit from doing so as some students have completed their summer projects using research questions developed on this module, supported by SPH supervisors with expertise in that topic. 
+To start developing your question, identify a topic within public health and epidemiology that you are interested in. Such ideas can come from personal experience, incidental news you have come across or more intimate knowledge of a particular field of study. Below are links to the departments within the School of Public Health (SPH), any of which you can explore for research ideas. You do not have to choose from SPH research topics. However, you may benefit from doing so as some students have completed their summer projects using research questions developed on this module, supported by SPH supervisors with expertise in that topic. 
 
-MSc Epidemiology students are encouraged to consider ongoing research activities and potential supervisors mainly from the Departments of Infectious Disease Epidemiology, Epidemiology and Biostatistics and the Environmental Research Group, as their work is best aligned to your learnign objectives.
+MSc Epidemiology students are encouraged to consider ongoing research activities and potential supervisors mainly from the Departments of Infectious Disease Epidemiology, Epidemiology and Biostatistics and the Environmental Research Group, as their work is best aligned to your learning objectives.
 
 **[SPH department websites detailing research activities](https://www.imperial.ac.uk/school-public-health/research/)**
 
@@ -197,7 +198,7 @@ What do I currently know about this topic? Am I aware of any research gaps that 
 
 Based upon these questions, you should be able to start narrowing your research topic down. Through a series of adaptations, you may be able to develop an initial research question. 
 
-During the Research Methods Module you will explore the background literature to your research topic/research question in more detail so you may identify the research gaps more closely; thus, it is likely your research question will adapt and change. However, it is important to start with a research topic you are interested in.   
+During the Research Methods Module you will explore the background literature to your research topic/research question in more detail so you may identify the research gaps more closely; thus, it is likely your research question will evolve. However, it is important to start with a research topic you are interested in.   
 
 **Further guidance on how you can refine your research question will be circulated via email ahead of the start of term**
 
@@ -208,13 +209,13 @@ You will be using R extensively throughout the year. R is a widely used programm
 
 ### Installing R
 
-First download and install R (version 4.4.1) from the CRAN.
+First download and install R (version 4.5.1) from the CRAN.
 
 **[R for Mac OS X](https://cran.r-project.org/bin/macosx/)**
 
 For Mac users
 
-**[Download R-4.4.1 for Windows. The R-project for statistical computing.](https://cran.r-project.org/bin/windows/base/)**
+**[Download R-4.5.1 for Windows. The R-project for statistical computing.](https://cran.r-project.org/bin/windows/base/)**
 
 For Windows users
 
@@ -318,15 +319,15 @@ We asked previous students what advice they would give their past selves before 
 
 #### 1. Do you have any suggestions for finding accommodation in London? 
 
-Imperial College London campuses are accessible by public transport from most parts of London. When searching for accommodation, you may want to consider proximity to campuses where most of your classes will be delivered.  The MSc Epidemiology course team are based at the White City campuses in West London. However, your classes will be split across the White City, Charing Cross (Hammersmith) and South Kensington campuses, all in in West London.
+Imperial College London campuses are accessible by public transport from most parts of London. When searching for accommodation, you may want to consider proximity to campuses where most of your classes will be delivered.  The MSc Epidemiology course team are based at the White City campuses in West London. However, your classes will be split across the White City, Hammersmith, Charing Cross and South Kensington campuses, all in in West London.
 
 For additional information on accommodation, visit the [Imperial College Accommodation website.](https://www.imperial.ac.uk/students/accommodation/)
 
 #### 2. How much money will I need to live and study in London for a year?
 
-Please visit the Imperial [Living in London](https://www.imperial.ac.uk/study/living-in-london/) website for detailed information. 
+Please visit the Imperial [Living costs](https://www.imperial.ac.uk/study/fees-and-funding/living-costs/) website for detailed information. 
 
-You will need to travel between campuses by bus, bicycle or underground train. Some journeys may be convenient on foot.
+You will need to travel between campuses by free shuttle, bicylce or public transport. Some journeys may be convenient on foot.
 
 #### 3. What is my tuition fee status? 
 
@@ -338,7 +339,7 @@ Official documents need to be sent to [Registry](https://www.imperial.ac.uk/admi
 
 #### 5. When does the course start?
 
-The MSc Epidemiology Course starts on 30 September 2024. Further details of the first week of term (i.e. ‘Induction Week’) will be sent via email. 
+The MSc Epidemiology Course starts on 29 September 2025. Further details of the first week of term (i.e. ‘Induction Week’) will be sent via email. 
 
 For international students, Imperial College London organises some orientation events prior to the official start of the course. Please visit the [International Students Webpages](https://www.imperial.ac.uk/study/international-students/)  for further information. 
 
@@ -392,8 +393,8 @@ The summer months in Term 3 are dedicated to full-time work on a research projec
 If you have any further questions, please consult the following key contacts or resources:
 
 * The Registry team for queries on your application, outstanding conditions, fee status, and registration status.
-*	Postgraduate Education Co-ordinator, for queries on timetables, induction week or any other administrative issues, Jo Tite (email: j.tite at imperial.ac.uk), 
-*	MSc Epidemiology Course Organiser for queries on the course content and reading lists,	Dr Sungano Chigogora (s.chigogora at imperial.ac.uk)   
+*	Postgraduate Education Co-ordinator, for queries on timetables, induction week or any other administrative issues, Jo Tite (j.tite@imperial.ac.uk), 
+*	MSc Epidemiology Course Organiser for queries on the course content and reading lists,	Dr Sungano Chigogora (s.chigogora@imperial.ac.uk)   
 *	Please familiarise yourself with information about [postgraduate studies](https://www.imperial.ac.uk/study/pg/), and further information collated for [new postgraduate students](https://www.imperial.ac.uk/students/new-students/postgraduates/) before you arrive. 
 
 
