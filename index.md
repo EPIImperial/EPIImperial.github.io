@@ -25,8 +25,7 @@ Below are provisional Imperial College terms dates for 2024-25. **Please note** 
 ***College Term dates***
 
 |Autumn term:|					26 September 2026 - 11 December 2026|                                                          
-|Spring term:| 				  2 January 2027 - 19 March 2027|  
-|Spring break:| 				15 Febuary 2027 - 21 February 2027|     
+|Spring term:| 				  2 January 2027 - 19 March 2027|     
 |Summer term:|					24 April 2027 - 30 June 2027|                                                              
 
 ***Examination dates***
