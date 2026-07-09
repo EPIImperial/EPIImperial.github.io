@@ -24,29 +24,29 @@ Below are provisional Imperial College terms dates for 2024-25. **Please note** 
 
 ***College Term dates***
 
-|Autumn term:|					27 September 2025 - 12 December 2025|                                                          
-|Spring term:| 				  3 January 2026 - 20 March 2026|  
-|Spring break:| 				16 Febuary 2026 - 22 February 2026|     
-|Summer term:|					25 April 2026 - 26 June 2026|                                                              
+|Autumn term:|					26 September 2026 - 11 December 2026|                                                          
+|Spring term:| 				  2 January 2027 - 19 March 2027|  
+|Spring break:| 				15 Febuary 2027 - 21 February 2027|     
+|Summer term:|					24 April 2027 - 30 June 2027|                                                              
 
 ***Examination dates***
 
-|Exam period 1:|					5 - 9 January 2026|
-|Exam period 2:|					20 April - 1 May April 2026|
+|Exam period 1:|					4 - 8 January 2027|
+|Exam period 2:|					19 April - 30 April 2026|
 
 ***Summer Project dates***
 
-|Start:|                             4 May 2026|
-|Background presentation:|          (Provisional)   Week of 1 June 2026|    
-|Final presentation date:|          (Provisional)   Week of 14 Septmber 2026|
+|Start:|                             3 May 2027|
+|Background presentation:|          (Provisional)   Week of 31 May 2027|    
+|Final presentation date:|          (Provisional)   Week of 6 September 2027|
 
 ***Closure dates***
 
-|Christmas/New year:|  				  22 December 2025 - 2 January 2026 (College reopens on Monday 5 January 2026)|
-|Easter Holiday:|      				  1 April 2026 - 7 April 2026 (College reopens on Wednesday 23 April 2026)|
-|Early May Bank Holiday:|			  4 May 2026|
-|Spring Bank Holiday:|				  25 May 2026|
-|Summer Bank Holiday:|			    31 August 2026|
+|Christmas/New year:|  				  23 December 2026 - 3 January 2027 (College reopens on Monday 4 January 2027)|
+|Easter Holiday:|      				  25 March 2027 - 31 March 2027 (College reopens on Thursday 1 April 2027)|
+|Early May Bank Holiday:|			  3 May 2027|
+|Spring Bank Holiday:|				  31 May 2027|
+|Summer Bank Holiday:|			    30 August 2027|
 
 Again, NOTE that on this one year postgraduate course, assessment submissions may take place outside the main term / exam periods.
 
@@ -210,13 +210,13 @@ You will be using R extensively throughout the year. R is a widely used programm
 
 ### Installing R
 
-First download and install R (version 4.5.1) from the CRAN.
+First download and install R (version 4.6.1) from the CRAN.
 
 **[R for Mac OS X](https://cran.r-project.org/bin/macosx/)**
 
 For Mac users
 
-**[Download R-4.5.1 for Windows. The R-project for statistical computing.](https://cran.r-project.org/bin/windows/base/)**
+**[Download R-4.6.1 for Windows. The R-project for statistical computing.](https://cran.r-project.org/bin/windows/base/)**
 
 For Windows users
 
