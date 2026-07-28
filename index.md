@@ -51,13 +51,14 @@ Below are provisional Imperial College terms dates for 2026-27. **Please note** 
 
 
 ***Closure dates***
+
 |Holiday | Dates |
 | --- | --- |
-|Christmas/New year|  				  23 December 2026 - 3 January 2027 (College reopens on Monday 4 January 2027)|
-|Easter Holiday|      				  25 March 2027 - 31 March 2027 (College reopens on Thursday 1 April 2027)|
-|Early May Bank Holiday|			  3 May 2027|
-|Spring Bank Holiday|				  31 May 2027|
-|Summer Bank Holiday|			    30 August 2027|
+|Christmas/New year| 23 December 2026 - 3 January 2027 (College reopens on Monday 4 January 2027)|
+|Easter Holiday| 25 March 2027 - 31 March 2027 (College reopens on Thursday 1 April 2027)|
+|Early May Bank Holiday| 3 May 2027|
+|Spring Bank Holiday| 31 May 2027|
+|Summer Bank Holiday|	30 August 2027|
 
 Again, NOTE that on this one year postgraduate course, assessment submissions may take place outside the main term / exam periods.
 
