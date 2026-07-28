@@ -31,27 +31,31 @@ Below are provisional Imperial College terms dates for 2026-27. **Please note** 
 | Spring term | 2 January 2027 - 19 March 2027 |     
 | Summer term |	24 April 2027 - 30 June 2027 |                                                              
 
+
 ***Examination dates***
 
-|Exam period 1:|					4 - 8 January 2027|
-
-|Exam period 2:|					19 April - 30 April 2027|
-
-|Exam resits:|					January 2028|
+|Examination Period | Dates |
+|--- | --- |
+|Exam period 1|					4 - 8 January 2027|
+|Exam period 2|					19 April - 30 April 2027|
+|Exam resits|					January 2028|
 
 ***Summer Project dates***
 
-|Start:|                             3 May 2027|
-|Background presentation:|          (Provisional)   Week of 31 May 2027|    
-|Final presentation date:|          (Provisional)   Week of 6 September 2027|
+|Project timeline | Dates |
+| --- | --- |
+|Start|                             3 May 2027|
+|Background presentation|          (Provisional)   Week of 31 May 2027|    
+|Final presentation date|          (Provisional)   Week of 6 September 2027|
 
 ***Closure dates***
-
-|Christmas/New year:|  				  23 December 2026 - 3 January 2027 (College reopens on Monday 4 January 2027)|
-|Easter Holiday:|      				  25 March 2027 - 31 March 2027 (College reopens on Thursday 1 April 2027)|
-|Early May Bank Holiday:|			  3 May 2027|
-|Spring Bank Holiday:|				  31 May 2027|
-|Summer Bank Holiday:|			    30 August 2027|
+|Holiday | Dates |
+| --- | --- |
+|Christmas/New year|  				  23 December 2026 - 3 January 2027 (College reopens on Monday 4 January 2027)|
+|Easter Holiday|      				  25 March 2027 - 31 March 2027 (College reopens on Thursday 1 April 2027)|
+|Early May Bank Holiday|			  3 May 2027|
+|Spring Bank Holiday|				  31 May 2027|
+|Summer Bank Holiday|			    30 August 2027|
 
 Again, NOTE that on this one year postgraduate course, assessment submissions may take place outside the main term / exam periods.
 
