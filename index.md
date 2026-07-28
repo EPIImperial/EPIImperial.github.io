@@ -94,7 +94,7 @@ You should be auto-enrolled to this course; instructions for manual enrolment ar
 
 ### Generative AI for students
 Through lectures, practicals, tutorials and group-work, students who complete the MSc Epidemiology courses are expected to develop skills in research application, communication, critical thinking, creativity, and collaboration. To achieve this, you are challenged to think independently, to innovate and to co-produce solutions with peers. With recognition that the use of generative AI is widespread for many of the middle-range steps in a student’s learning, we encourage you to complete this course on use of Generative AI at Imperial.
-[An introduction to Generative AI for students] (https://bb.imperial.ac.uk/ultra/courses/_47241_1/cl/outline/ultra-course-self-enroll?legacyUrl=~2Fwebapps~2Fblackboard~2Fexecute~2FenrollCourse%3Fcourse_id%3D_47241_1%26context%3DCourse&legacyUrl=~2Fwebapps~2Fblackboard~2Fexecute~2FenrollCourse%3Fcourse_id%3D_47241_1%26context%3DCourse)
+[An introduction to Generative AI for students](https://bb.imperial.ac.uk/ultra/courses/_47241_1/cl/outline/ultra-course-self-enroll?legacyUrl=~2Fwebapps~2Fblackboard~2Fexecute~2FenrollCourse%3Fcourse_id%3D_47241_1%26context%3DCourse&legacyUrl=~2Fwebapps~2Fblackboard~2Fexecute~2FenrollCourse%3Fcourse_id%3D_47241_1%26context%3DCourse/)
 
 
 ### Attributes and Aspirations (Recommended)
