@@ -32,7 +32,9 @@ Below are provisional Imperial College terms dates for 2026-27. **Please note** 
 ***Examination dates***
 
 |Exam period 1:|					4 - 8 January 2027|
+
 |Exam period 2:|					19 April - 30 April 2027|
+
 |Exam resits:|					January 2028|
 
 ***Summer Project dates***
