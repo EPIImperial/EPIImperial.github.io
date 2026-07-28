@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Imperial MSc EPI Course Preparation
+title: Imperial MSc Epidemiology Course Preparation
 ---
 
 # Course preparation resources
@@ -20,7 +20,8 @@ title: Imperial MSc EPI Course Preparation
 
 The MSc Epidemiology is an intensive full time programme delivered over a 12 month period. In general, taught/supervised classes will take place between 9.30am and 5pm from Monday to Friday. However, exact times may vary depending on the module and the amount of pre-reading and pre-sessional exercises students need to carry out. More details regarding the timetable will be sent to you in September.
 
-Below are provisional Imperial College terms dates for 2024-25. **Please note** that some core teaching, assessments submission and examination dates  for this programme fall outside regular College term dates. This is particularly so for the end of the Spring term where teachign runs later, and the beginning of the Summer Term, where assessments commence ahead for the formal College term. The full course schedule will be circulated separately.
+Below are provisional Imperial College terms dates for 2026-27. **Please note** that some core teaching, assessments submission and examination dates  for this programme fall outside regular College term dates. This is particularly so for the end of the Spring term where teaching runs later, and the beginning of the Summer Term, where assessments commence ahead for the formal College term. The full course schedule will be circulated separately.
+**Important** Exam resits are taken at the next scheduled exam period after submission of final research projects. That is, resits for the 2026/27 academic year will be taken in the January 2027 exam period.
 
 ***College Term dates***
 
@@ -31,7 +32,8 @@ Below are provisional Imperial College terms dates for 2024-25. **Please note** 
 ***Examination dates***
 
 |Exam period 1:|					4 - 8 January 2027|
-|Exam period 2:|					19 April - 30 April 2026|
+|Exam period 2:|					19 April - 30 April 2027|
+|Exam resits:|					January 2028|
 
 ***Summer Project dates***
 
@@ -48,6 +50,10 @@ Below are provisional Imperial College terms dates for 2024-25. **Please note** 
 |Summer Bank Holiday:|			    30 August 2027|
 
 Again, NOTE that on this one year postgraduate course, assessment submissions may take place outside the main term / exam periods.
+
+**Internships**
+
+Given the intensive course schedule outlined above, Internships are not permitted while enrolled on the MSc Epidemiology.
 
 
 
@@ -74,6 +80,11 @@ As an Imperial College London student, you will be required to use and share aca
 
 To support compliance with this policy, you are required to complete a [Plagiarism Awareness Course](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/masters-students/plagiarism-online/), developed by the Graduate School in conjunction with the Library. It aims to equip all Imperial postgraduate students with a working knowledge of the concept of plagiarism and how to avoid it. 
 You should be auto-enrolled to this course; instructions for manual enrolment are also on the College website.
+
+### Generative AI for students
+Through lectures, practicals, tutorials and group-work, students who complete the MSc Epidemiology courses are expected to develop skills in research application, communication, critical thinking, creativity, and collaboration. To achieve this, you are challenged to think independently, to innovate and to co-produce solutions with peers. With recognition that the use of generative AI is widespread for many of the middle-range steps in a student’s learning, we encourage you to complete this course on use of Generative AI at Imperial.
+[An introduction to Generative AI for students] (https://bb.imperial.ac.uk/ultra/courses/_47241_1/cl/outline/ultra-course-self-enroll?legacyUrl=~2Fwebapps~2Fblackboard~2Fexecute~2FenrollCourse%3Fcourse_id%3D_47241_1%26context%3DCourse&legacyUrl=~2Fwebapps~2Fblackboard~2Fexecute~2FenrollCourse%3Fcourse_id%3D_47241_1%26context%3DCourse)
+
 
 ### Attributes and Aspirations (Recommended)
 
