@@ -40,6 +40,7 @@ Below are provisional Imperial College terms dates for 2026-27. **Please note** 
 |Exam period 2|					19 April - 30 April 2027|
 |Exam resits|					January 2028|
 
+
 ***Summer Project dates***
 
 |Project timeline | Dates |
@@ -47,6 +48,7 @@ Below are provisional Imperial College terms dates for 2026-27. **Please note** 
 |Start|                             3 May 2027|
 |Background presentation|          (Provisional)   Week of 31 May 2027|    
 |Final presentation date|          (Provisional)   Week of 6 September 2027|
+
 
 ***Closure dates***
 |Holiday | Dates |
@@ -59,7 +61,8 @@ Below are provisional Imperial College terms dates for 2026-27. **Please note** 
 
 Again, NOTE that on this one year postgraduate course, assessment submissions may take place outside the main term / exam periods.
 
-**Internships**
+
+***Internships***
 
 Given the intensive course schedule outlined above, Internships are not permitted while enrolled on the MSc Epidemiology.
 
