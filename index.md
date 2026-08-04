@@ -20,7 +20,9 @@ title: Imperial MSc Epidemiology Course Preparation
 
 The MSc Epidemiology is an intensive full time programme delivered over a 12 month period. In general, taught/supervised classes will take place between 9.30am and 5pm from Monday to Friday. However, exact times may vary depending on the module and the amount of pre-reading and pre-sessional exercises students need to carry out. More details regarding the timetable will be sent to you in September.
 
-Below are provisional Imperial College terms dates for 2026-27. **Please note** that some core teaching, assessments submission and examination dates  for this programme fall outside regular College term dates. This is particularly so for the end of the Spring term where teaching runs later, and the beginning of the Summer Term, where assessments commence ahead for the formal College term. The full course schedule will be circulated separately.
+Below are provisional Imperial College terms dates for 2026-27. 
+**Please note** that some core teaching, assessments submission and examination dates  for this programme fall outside regular College term dates. This is particularly so for the end of the Spring term where teaching runs later, and the beginning of the Summer Term, where assessments commence ahead for the formal College term. The full course schedule will be circulated separately.
+
 **Important** Exam resits are taken at the next scheduled exam period after submission of final research projects. That is, resits for the 2026/27 academic year will be taken in the January 2027 exam period.
 
 ***College Term dates***
