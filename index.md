@@ -420,7 +420,7 @@ If you have any further questions, please consult the following key contacts or 
 * The Registry team for queries on your application, outstanding conditions, fee status, and registration status.
 *	Postgraduate Education Co-ordinator, for queries on timetables, induction week or any other administrative issues, Jo Tite (j.tite@imperial.ac.uk), 
 *	MSc Epidemiology Course Organiser for queries on the course content and reading lists,	Dr Sungano Chigogora (s.chigogora@imperial.ac.uk)   
-*	Please familiarise yourself with information about [postgraduate studies](https://www.imperial.ac.uk/study/pg/), and further information collated for [new postgraduate students](https://www.imperial.ac.uk/students/new-students/postgraduates/) before you arrive. 
+*	Please familiarise yourself with information about [postgraduate studies](https://www.imperial.ac.uk/study/pg/), and further information collated for [new postgraduate students](https://www.imperial.ac.uk/students/new-students/) before you arrive. 
 
 
 
