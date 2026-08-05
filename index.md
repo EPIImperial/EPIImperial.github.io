@@ -48,7 +48,7 @@ Below are provisional Imperial College terms dates for 2026-27.
 |Project timeline | Dates |
 | --- | --- |
 |Start|                             3 May 2027|
-|Background presentation|          (Provisional)   Week of 31 May 2027|    
+|Background presentation|          (Provisional)   Week of 7 June 2027|    
 |Final presentation date|          (Provisional)   Week of 6 September 2027|
 
 
